@@ -1,4 +1,5 @@
-# EE244_PA1
+# EE244 Computational Learning | Programing Assignment 1
+
 First programming assignment for EE244 Computational Learning
 
 ## PA #1: Decision Trees & Random Forests
