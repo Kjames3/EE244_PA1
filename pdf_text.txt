@@ -1,0 +1,40 @@
+﻿UNIVERSITY OF CALIFORNIA AT RIVERSIDE 
+Department of Electrical and Computer Engineering 
+EE244 Computational Learning, Spring Quarter 2026 
+Tuesday/Thursday 11:00 am û 12:20 pm, MSE Rm 003 
+ 
+PA #1 Decision Trees, April 14, 2026 
+Due Date: April 23, 2026 
+Goals: The objective of this Programming Assignment (PA) is to experiment with decision tree and random 
+forest machine learning paradigms using multiple datasets. 
+(a) Implement a baseline algorithm for induction of decision trees and test it on at least one selected dataset 
+given below.  
+(b) Incorporate the simple pruning mechanism in (a) and run several experiments and observe how different 
+extent of pruning affects the error rate on the training and testing sets. Compare the results with those 
+achieved by the k-NN classifier. 
+(c) Choose a dataset from given below. Put aside 30% of the examples for testing. For training, use 10%, 
+20%, . . .70% of the remaining examples, respectively. Plot a graph where the horizontal axis gives the 
+number of examples used for learning, and the vertical axis gives the computational time spent on the 
+induction. Plot another graph where the vertical axis will give the error rate on the testing set. Discuss the 
+results. 
+(d) Implement random forest algorithm and evaluate the results on at least one dataset given below. Evaluate 
+the performance improvement over the best decision tree. 
+ 
+Decision Tree Datasets (3)  
+ 
+1. Titanic - Machine Learning from Disaster 
+ò Link: https://www.kaggle.com/competitions/titanic 
+2. Mushroom Classification 
+ò Link: https://www.kaggle.com/datasets/uciml/mushroom-classification 
+3. Heart Disease UCI Dataset 
+ 
+ò Link: https://www.kaggle.com/datasets/thisishusseinali/uci-heart-disease-data 
+ 
+Random Forest Datasets (3) 
+1. Loan Prediction Dataset 
+ò Link: https://www.kaggle.com/datasets/ninzaami/loan-predication 
+2. Adult Income Dataset 
+ò Link: https://www.kaggle.com/datasets/uciml/adult-census-income 
+3. Bank Marketing Dataset 
+ò Link: https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset 
+
